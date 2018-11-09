@@ -24,13 +24,15 @@ The design uses the [Adafruit Trinket M0](https://www.adafruit.com/product/3500)
 
 The 3D STL files for the enclosure and the lid are under the /cad folder. They were printed on a Prusa i3 MK3 printer. 
 
+You can secure the Neopixel strip and the Trinket M0 with small #2 wood screws.
+
 ![](/images/lightbar-assembly.png)
 
 ![](/images/lightbar-assembly-lipo.png)
 
 The knobs should press fit onto the potentiometers.
 
-![](/images/lightbar-assembly-knobs.png)
+![](/images/lightbar-knobs.png)
 
 I used brass #2 wood screws to secure the lid on to the enclosure body.
 
