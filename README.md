@@ -1,6 +1,6 @@
 # Neopixel Lightbar
 
-![](/images/lightbar-header.png)
+[<img src="https://github.com/mohitbhoite/neopixel-lightbar/blob/master/images/lightbar-header.png">](https://youtu.be/xZvvPWYbvN4)
 
 I made a neopixel lightbar controller to add color to my macro photographs. I usually just use mono colored LEDs to accomplish that, but thought something like this will give me more control.
 
